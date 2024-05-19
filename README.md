@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aaikins
+- 👋 Hi, I’m Aikins
 - 👀 I’m interested in python projects.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on any python project
